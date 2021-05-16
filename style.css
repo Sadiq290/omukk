@@ -42,9 +42,6 @@ body {
 #marketing {
     height: 200px;
 }
-.second {
-    margin-bottom: 200px;
-}
 .item {
     width: 60%;
     padding: 15px;
@@ -97,5 +94,28 @@ body {
         height: 250px;
     }
 }
-
+.footer{
+    text-align: center;
+    margin-right: 30px;
+    /* margin-top: 0%; */
+    background-color: #37c9e2;
+    margin-bottom: 0px;
+}
+.email{
+    color: white;
+    font-size: 30px;
+}
+a:hover{
+    color: skyblue;
+}
+.fab{
+    font-size: 40px;
+    margin-right: 15px;
+    color: white;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}
 /*     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#000b76" fill-opacity="1" d="M0,288L24,266.7C48,245,96,203,144,181.3C192,160,240,160,288,138.7C336,117,384,75,432,85.3C480,96,528,160,576,165.3C624,171,672,117,720,122.7C768,128,816,192,864,224C912,256,960,256,1008,245.3C1056,235,1104,213,1152,208C1200,203,1248,213,1296,197.3C1344,181,1392,139,1416,117.3L1440,96L1440,0L1416,0C1392,0,1344,0,1296,0C1248,0,1200,0,1152,0C1104,0,1056,0,1008,0C960,0,912,0,864,0C816,0,768,0,720,0C672,0,624,0,576,0C528,0,480,0,432,0C384,0,336,0,288,0C240,0,192,0,144,0C96,0,48,0,24,0L0,0Z"></path></svg> --> */
