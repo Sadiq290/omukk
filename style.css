@@ -104,20 +104,26 @@ body {
         height: 250px;
     }
 }
+@media (max-width:650px){
+   #marketing{
+       margin-bottom: 0px;
+   }
+}
+
 @media (max-width:350px){
    .sectors div{
       height: 300px;
    }
 }
 .contact{
-    background-color: darkblue;
+    background-color: rgb(0, 0, 48);
     color: white;
     text-align: center;
     position: relative;
-    bottom: 100px;
+    bottom: 80px;
 }
 .wave{
-    background-color: darkblue;
+    background-color: rgb(0, 0, 48);
 }
 .icon{
     display: flex;
